@@ -1,4 +1,4 @@
-# Task 1 - Iris Flowers Classification
+# Task 3 - Iris Flowers Classification
 This repository contains a machine learning model for classifying Iris flowers into different species based on their features. The Iris dataset is a commonly used dataset for learning classification techniques, and this project demonstrates how to create and evaluate a classification model using Python.
 
 ---
